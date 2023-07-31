@@ -1,4 +1,4 @@
-
+i am the person who developed the cart function. customer can add product in to the cart, delete,update and customer can view cart.
 
 
 ![1](https://github.com/IT21041716/MAD-online-food-ordering-application/assets/87372439/5788d562-c50e-4bb1-9fae-1a79bc35fb7a)
